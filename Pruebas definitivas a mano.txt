@@ -1,0 +1,17 @@
+Entradas: 200
+
+Entradas detectadas: 197
+
+Entradas no detectadas: 3
+
+Falsas entradas: 0
+
+
+
+Salidas: 200
+
+Salidas detectadas: 194
+
+Salidas no detectadas: 6
+
+Falsas salidas: 1
